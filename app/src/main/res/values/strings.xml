@@ -18,9 +18,17 @@
     <string name="login_enter_app">ENTER THE APP</string>
     <string name="login_go_to_login">Go back to Login</string>
 
+    <!-- Home Activity -->
     <string name="title_activity_home">HomeActivity</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="navigation_bottom_home">Home</string>
+    <string name="navigation_bottom_explorer">Explorer</string>
+    <string name="navigation_bottom_recording">Recording</string>
+    <string name="navigation_bottom_favorites">Favorites</string>
+    <string name="navigation_bottom_profile">Profile</string>
+    <string name="options_menu_log_out">Log out</string>
+
 
 </resources>
