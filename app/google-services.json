@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "852127915406",
+    "project_id": "arhepp-59903",
+    "storage_bucket": "arhepp-59903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852127915406:android:71c89ee573fd0e328e18df",
+        "android_client_info": {
+          "package_name": "com.ramiguev.arhepp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852127915406-i5bgkfscemevhimp4l5p7mrc6pcpafjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramiguev.arhepp",
+            "certificate_hash": "d3f660acd20d6d087c346925aa05db009ff23d48"
+          }
+        },
+        {
+          "client_id": "852127915406-6ik86sglieubp7kb3usk0qjnnv483qoc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFUy7Uzzux0wXYdcZ9mJIZJ1K-pSkHBts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852127915406-6ik86sglieubp7kb3usk0qjnnv483qoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
